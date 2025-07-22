@@ -14,7 +14,7 @@ This repository contains a sample strategy presentation deck I prepared for the 
 
 ## File
 
-- `Distribution_Strategy_CXO_Deck_Confidential.pdf` – The full slide deck (confidential edits made)
+- `Distribution_Strategy.pdf` – The full slide deck (confidential edits made)
 
 ## Why This Matters
 
